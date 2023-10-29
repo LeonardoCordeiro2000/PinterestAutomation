@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PinterestAutomation", "PinterestAutomation\PinterestAutomation.pyproj", "{BB4A2C97-750A-499F-AFC2-7BCA9690244A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB4A2C97-750A-499F-AFC2-7BCA9690244A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB4A2C97-750A-499F-AFC2-7BCA9690244A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77F38C55-1069-4D3D-916B-C2C9764A558F}
+	EndGlobalSection
+EndGlobal
