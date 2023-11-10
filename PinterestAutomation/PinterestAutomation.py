@@ -15,8 +15,8 @@ class Pinterest():
     driver.get('https://br.pinterest.com/');
     driver.maximize_window();
     driver.find_element("xpath",'//div[text()="Entrar"]').click();
-    driver.find_element("xpath", '//*[@id="email"]').send_keys('leocordeiro09@gmail.com');
-    driver.find_element("xpath", '//*[@id="password"]').send_keys('Teste@123');
+    driver.find_element("xpath", '//*[@id="email"]').send_keys('YourEmial');
+    driver.find_element("xpath", '//*[@id="password"]').send_keys('YourPassword');
     driver.find_element("xpath", '//button/div[text()="Entrar"]').click();
     driver.find_element("xpath", '//span[text()="Criar"]').click();
     driver.find_element("xpath", '//span[text()="Criar Pin"]').click();
